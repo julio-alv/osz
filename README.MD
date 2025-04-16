@@ -1,6 +1,6 @@
 # OSZ
 
-An Implementation of the OS in 1K LoC in Zig
+An Implementation of the OS in 1K LoC in Zig (incomplete)
 
 ## Requirements
 
